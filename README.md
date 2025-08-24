@@ -1,4 +1,4 @@
-Hi there, I'm Ajay (LeoAj2005)
+Hi there, I'm Ajay (LeoAj2005) 👋
 <p align="center">
 <a href="https://github.com/LeoAj2005">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Image" width="800"/>
@@ -18,11 +18,11 @@ My background is in ML and I'm currently studying Artificial Engineering, which 
 
 💬 Ask me about Flutter, UI/UX Design, Machine Learning, Python, and LLMs.
 
-📫 How to reach me: [Your Email/LinkedIn Profile]
+📫 How to reach me: dossajayaug2005@gmail.com | LinkedIn
 
-😄 Pronouns: [Your Pronouns]
+😄 Pronouns: He/Him
 
-⚡ Fun fact: [A fun fact about you]
+⚡ Fun fact: I drive...
 
 🛠️ My Tech Stack
 Languages
@@ -86,11 +86,11 @@ AI Assistants I Use
 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
 </a>
 </p>
 
@@ -105,6 +105,6 @@ AI Assistants I Use
 You can find me on:
 
 <p align="left">
-<a href="https://linkedin.com/in/ajaydoss2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://instagram.com/leoajay2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajaydoss2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/leoajay2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
