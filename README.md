@@ -1,7 +1,7 @@
 Hi there, I'm Ajay (LeoAj2005) 👋
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/LeoAj2005">
-<img src="https://www.google.com/search?q=https://placehold.co/800x200/000000/FFFFFF%3Ftext%3DAjay%2B(LeoAj2005)" alt="Banner Image" width="800"/>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner Image" width="800"/>
 </a>
 </p>
 
@@ -18,7 +18,11 @@ My background is in ML and I'm currently studying Artificial Engineering, which 
 
 💬 Ask me about Flutter, UI/UX Design, Machine Learning, Python, and LLMs.
 
-😄 Pronouns: he/him
+📫 How to reach me: [Your Email/LinkedIn Profile]
+
+😄 Pronouns: [Your Pronouns]
+
+⚡ Fun fact: [A fun fact about you]
 
 🛠️ My Tech Stack
 Languages
@@ -101,6 +105,8 @@ AI Assistants I Use
 You can find me on:
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/ajaydoss2005/" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://instagram.com/leoajay2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://instagram.com/your-instagram-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://dev.to/your-devto-username" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="your-devto-username" height="30" width="40" /></a>
 </p>
