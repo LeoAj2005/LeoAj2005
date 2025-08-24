@@ -86,11 +86,11 @@ AI Assistants I Use
 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
 </a>
 </p>
 
@@ -105,6 +105,6 @@ AI Assistants I Use
 You can find me on:
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/ajaydoss2005/" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://instagram.com/leoajay2005/" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajaydoss2005/" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://instagram.com/leoajay2005/" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
 </p>
