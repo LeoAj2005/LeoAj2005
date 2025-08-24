@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @LeoAj2005
-- 👀 I’m interested in Programming Stuff, Sports and Video Games
-- 🌱 I’m currently learning Assembly Language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-LeoAj2005/LeoAj2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hi there, I'm Ajay (LeoAj2005) 👋
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/LeoAj2005">
@@ -30,10 +18,11 @@ My background is in ML and I'm currently studying Artificial Engineering, which 
 
 💬 Ask me about Flutter, UI/UX Design, Machine Learning, Python, and LLMs.
 
-📫 How to reach me: dossajayaug2005@gmail.com
+📫 How to reach me: [Your Email/LinkedIn Profile]
 
-😄 Pronouns: he/him
-⚡ Fun fact: I Drive
+😄 Pronouns: [Your Pronouns]
+
+⚡ Fun fact: [A fun fact about you]
 
 🛠️ My Tech Stack
 Languages
@@ -108,7 +97,7 @@ AI Assistants I Use
 📜 Quote of the Day
 <p align="center">
 <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&animation=default&layout=socrates&font=PixelifySans&quoteType=quote-for-the-day&bgSource=unsplash" alt="Quote of the day" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&animation=default&layout=socrates&font=PixelifySans&quoteType=quote-for-the-day" alt="Quote of the day" />
 </a>
 </p>
 
