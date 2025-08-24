@@ -102,9 +102,11 @@ AI Assistants I Use
 </p>
 
 🤝 Let's Connect
-You can find me on:
-
-<p align="left">
-<a href="https://linkedin.com/in/ajaydoss2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/leoajay2005" target="_blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/ajaydoss2005" target="_blank">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/leoajay2005" target="_blank">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+</a>
 </p>
