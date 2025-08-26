@@ -83,17 +83,6 @@ AI Assistants I Use
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> </a>
 </p>
 
-📊 My GitHub Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</a>
-</p>
-
 📜 Quote of the Day
 <p align="center">
 <a href="https://github.com/PiyushSuthar/github-readme-quotes">
