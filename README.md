@@ -18,11 +18,7 @@ My background is in ML and I'm currently studying Artificial Engineering, which 
 
 💬 Ask me about Flutter, UI/UX Design, Machine Learning, Python, and LLMs.
 
-📫 How to reach me: dossajayaug2005@gmail.com | LinkedIn
-
 😄 Pronouns: He/Him
-
-⚡ Fun fact: I drive...
 
 🛠️ My Tech Stack
 Languages
@@ -83,12 +79,30 @@ AI Assistants I Use
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> </a>
 </p>
 
+📊 My GitHub Stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLeoAj2005%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLeoAj2005%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
+</a>
+</p>
+
 📜 Quote of the Day
 <p align="center">
 <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&animation=default&layout=socrates&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=black" alt="Quote of the day" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=maroongold&animation=default&layout=socrates&font=PixelifySans&quoteType=quote-for-the-day&bgColor=black&fontColor=olive" alt="Quote of the day" />
 </a>
 </p>
 
 🤝 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/ajaydoss2005" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> <a href="https://instagram.com/leoajay2005" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/ajaydoss2005" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/leoajay2005" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+</a>
+</p>
