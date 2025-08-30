@@ -18,8 +18,6 @@ My background is in ML and I'm currently studying Artificial Engineering, which 
 
 💬 Ask me about Flutter, UI/UX Design, Machine Learning, Python, and LLMs.
 
-😄 Pronouns: He/Him
-
 🛠️ My Tech Stack
 Languages
 <p align="left">
