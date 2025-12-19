@@ -89,7 +89,4 @@ AI Assistants I Use
 <a href="https://linkedin.com/in/ajaydoss2005" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/leoajay2005" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
 </p>
