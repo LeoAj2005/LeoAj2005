@@ -10,7 +10,6 @@ I'm an AI & Machine Learning Engineer from Chennai, India, with a passion for cr
 
 My background is in ML and I'm currently studying Artificial Engineering, which allows me to blend cutting-edge technology with thoughtful UI/UX design. I have hands-on experience developing mobile apps with Flutter and enjoy exploring the frontiers of AI, especially Large Language Models and finetuning.
 
-🔭 I’m currently working on building our platform at Living Algorithms.
 
 🌱 I’m currently diving deeper into scalable synthetic data generation techniques.
 
