@@ -70,7 +70,6 @@ Tools & Platforms
 
 AI Assistants I Use
 <p align="left">
-<a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" alt="Perplexity"/> </a>
 <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini"/> </a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/> </a>
 <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/> </a>
