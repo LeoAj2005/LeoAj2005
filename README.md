@@ -6,7 +6,7 @@ Hi there, I'm Ajay (LeoAj2005) 👋
 </p>
 
 👨‍💻 About Me
-I'm an AI & Machine Learning Engineer from Chennai, India, with a passion for creating beautiful and intuitive applications.
+I'm an AI & Machine Learning Engineer from India, with a passion for creating beautiful and intuitive applications.
 
 My background is in ML and I'm currently studying Artificial Engineering, which allows me to blend cutting-edge technology with thoughtful UI/UX design. I have hands-on experience developing mobile apps with Flutter and enjoy exploring the frontiers of AI, especially Large Language Models and finetuning.
 
